@@ -108,7 +108,7 @@ def solve(board):
     
 def main():    
     
-    b = board(8)
+    b = board(5)
     solve(b)
        
     
